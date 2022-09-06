@@ -1,6 +1,22 @@
 Old-id-Crack
 
+apt install python
 
+apt install python2
+
+pip install mechanize lolcat
+
+ pip install requests bs4
+
+ pip install futures
+
+apt install git
+
+git clone https://github.com/Tutul75o/Old-id-Crack
+
+cd Old-id-Crack
+
+python Tools-Paid.py
 
 
 
